@@ -1,2 +1,4 @@
 hi this is my first file made from cli
-this is 1st update from cli afer pushing to remote repo
+this is 1st update from cli afer pushing to remote rep
+
+this is again an new chnager after re push to remore repo t chech wheater it work agino
